@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<Views>
+		<ListView ID="DomainObject1_ListView" MasterDetailMode="ListViewAndDetailView" />
+	</Views>
+	<SchemaModules>
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="8.2.3.4806" />
+		<SchemaModule Name="SystemModule" Version="8.2.3.4806" IsNewNode="True" />
+		<SchemaModule Name="SystemWindowsFormsModule" Version="8.2.3.4806" IsNewNode="True" />
+		<SchemaModule Name="ValidationModule" Version="8.2.3.4806" IsNewNode="True" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="8.2.3.4806" IsNewNode="True" />
+	</SchemaModules>
+</Application>
